@@ -13,8 +13,9 @@ Files included :
 2. Link for TASK 2 from Google Looker.
 3. Link for TASK 3 from Google Looker.
 4. Link for TASK 4 from Google Looker.
-5. finaldataset.csv (Dataset).
-6. Real Time Sales Dashboard looker Report.pdf
+5. Link for Training Project from Google Looker.
+6. finaldataset.csv (Dataset).
+7. Real Time Sales Dashboard looker Report.pdf
 ---
 
 ## 📌 Tasks and Dashboard Links
@@ -25,6 +26,8 @@ Files included :
 | **Task 2** | Visualize the monthly trend of Average Order Value (AOV) for 2022 using a line chart | [View Dashboard](https://lookerstudio.google.com/reporting/673086b5-e0dd-4d93-88b3-383821487a02) |
 | **Task 3** | Analyze sales, quantity, and profit performance across payment methods with filterable tables | [View Dashboard](https://lookerstudio.google.com/reporting/81f40c62-c2d2-4c05-8af0-acba7c189d42) |
 | **Task 4** | Segment customers by total net profit and display their distribution in a pie chart | [View Dashboard](https://lookerstudio.google.com/reporting/90882466-6f48-4630-a326-6f6ac502c155) |
+| **Training Project** | Training project dashboard with end-to-end sales insights and data storytelling. | [View Training Project](https://lookerstudio.google.com/reporting/da2d8a4f-42c6-406f-b92b-63923cf04f97) |
+
 
 ---
 
